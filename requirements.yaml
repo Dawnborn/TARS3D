@@ -1,4 +1,4 @@
-name: tars-env
+name: hjp_tars3d
 channels:
   - pytorch 
   - conda-forge

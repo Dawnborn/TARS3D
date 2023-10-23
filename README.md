@@ -210,3 +210,7 @@ If you use our code or the paper, please consider citing the following:
 > ```
 
 Correspondences to Shivam Duggal (shivamduggal.9507@gmail.com).
+
+# My Installation
+
+[MyInstallation](./MyInstallation.md)
